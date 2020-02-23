@@ -13,7 +13,7 @@ fido.name = "Fido"
 fido.name
 
 
-class Breed
+# class Breed
   def  breed=(breed)
     @breed = (breed)
   end
