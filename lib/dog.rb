@@ -20,6 +20,7 @@ fido.name
   def breed
     @breed
   end
+end
 
 
 
