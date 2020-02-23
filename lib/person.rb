@@ -6,8 +6,8 @@
       def name
         @name
       end
-  
-  
+
+
       beyonce = Person.new
       beyonce.name = "Beyonce"
       beyonce.name
@@ -24,8 +24,3 @@
     singer = Person.new
     singer.job = "Singer"
     singer.job
-    
-     
-    
-
-    
