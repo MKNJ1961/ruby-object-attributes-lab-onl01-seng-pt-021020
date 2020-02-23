@@ -23,6 +23,6 @@ fido.name
 
 
 
-snoopy = Breed.new
+snoopy = Dog.new
 snoopy.breed = "Beagle"
 snoopy.breed
