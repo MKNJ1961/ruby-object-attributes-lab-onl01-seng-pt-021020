@@ -20,7 +20,7 @@ fido.name
   def breed
     @breed
   end
-end
+
 
 
 snoopy = Dog.new
