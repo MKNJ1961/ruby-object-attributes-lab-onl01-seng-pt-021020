@@ -11,7 +11,4 @@ class Person
   beyonce.name = "Beyonce"
   beyonce.name
 
-  def name
-    @name
-  end
-end
+  
