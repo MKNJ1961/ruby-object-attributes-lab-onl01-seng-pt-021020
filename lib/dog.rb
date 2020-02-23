@@ -6,3 +6,8 @@ class Dog(dog)
     @name
   end
 end
+
+
+fido = Dog.new
+fido.naame - "Fido"
+fido.name
