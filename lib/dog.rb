@@ -10,5 +10,5 @@ end
 
 
 fido = Dog.new
-fido.naame - "Fido"
+fido.name - "Fido"
 fido.name
